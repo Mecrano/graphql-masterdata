@@ -26,6 +26,8 @@ const saludo = ({ document }: any) => {
     if (key === "firstName") {
       return <h1>Hola {value}</h1>
     }
+
+    return null
   })
 }
 

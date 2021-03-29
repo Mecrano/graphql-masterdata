@@ -1,0 +1,6 @@
+{
+  "saludo": {
+    "component": "saludo",
+    "render": "client"
+  }
+}
