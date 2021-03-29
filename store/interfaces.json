@@ -1,6 +1,6 @@
 {
-  "saludo": {
-    "component": "saludo",
+  "custom-filter": {
+    "component": "filter",
     "render": "client"
   }
 }
